@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+	<Name>FriendListCleaner</Name>
+	<AutoStart>true</AutoStart>
+	<ScriptFileRefs>
+		<Item href="Libs/LibDnD.lua"/>
+		<Item href="Libs/SimpleChatLog.lua"/>
+		<Item href="Libs/Misc.lua"/>
+		<item href="Libs/Sort.lua"/>
+		<Item href="Libs/Utils.lua"/>
+		<Item href="Libs/Widget.lua"/>
+		<Item href="locales.lua"/>
+		<!-- <Item href="Script.luac"/> -->
+		<Item href="SourceCode.lua"/>
+    </ScriptFileRefs>
+	<localizedNameFileRef href="name.txt"/>
+	<localizedDescFileRef href="desc.txt"/>
+</UIAddon>
